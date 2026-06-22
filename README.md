@@ -121,3 +121,9 @@ npm start
 
 
 
+## 👩‍💻 Author
+
+### Shivani Pandey 
+7 sem M.Tech IT — IIPS DAVV 
+### Vanshika Verma ###
+7 sem M.Tech IT -IIPS DAVV
